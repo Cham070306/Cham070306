@@ -1,46 +1,44 @@
-# Hoang Thi Ngoc Tram
+<div align="center">
 
-Third-year Management Information Systems student at the University of Transport Ho Chi Minh City (UTH).
+# HOANG THI NGOC TRAM
 
-I am interested in building practical information systems that combine data, cloud technologies, and software development to support better decision-making.
+### Management Information Systems · Data · Cloud · Decision Support
 
-## Areas of Interest
+Third-year student at the **University of Transport Ho Chi Minh City (UTH)**
 
-- Data analytics and business intelligence
-- Database design and data warehousing
-- Cloud-based applications
-- Applied machine learning
-- Information systems development
+[Email](mailto:htntram070306@gmail.com) · [GitHub](https://github.com/Cham070306)
 
-## Selected Projects
+</div>
 
-### [Fraud Detection Data Mart](https://github.com/Cham070306/fraud-detection-data-mart)
+---
 
-A SQL Server data mart and machine-learning-based decision support system for detecting, scoring, and prioritizing fraudulent banking transactions.
+## Profile
 
-### [UTH CloudBot](https://github.com/Cham070306/uth-cloudbot)
+I build practical information systems that turn data into useful products and better decisions. My current work spans database design, cloud applications, business intelligence, and applied machine learning.
 
-A hybrid chatbot deployed on Google Cloud to support university students with academic information and common inquiries.
+## Selected Work
 
-### [3legant E-commerce Platform](https://github.com/Cham070306/web_shopping)
+| Project | What it demonstrates | Core technologies |
+|---|---|---|
+| [Fraud Detection Data Mart](https://github.com/Cham070306/fraud-detection-data-mart) | Fraud scoring, prioritization, and decision support built on an analytical data model | SQL Server, Machine Learning |
+| [UTH CloudBot](https://github.com/Cham070306/uth-cloudbot) | A hybrid university-support chatbot designed for deployment on Google Cloud | JavaScript, Google Cloud |
+| [3legant E-commerce Platform](https://github.com/Cham070306/web_shopping) | End-to-end commerce workflows, administration, authentication, and business reporting | PHP, MySQL, JavaScript |
+| [Gesture Meme](https://github.com/Cham070306/Gesture_meme) | Real-time hand-gesture recognition and responsive visual output | Python, OpenCV, MediaPipe |
 
-A PHP and MySQL e-commerce system featuring customer shopping workflows, product and order management, authentication, and an analytics-focused admin dashboard.
+## Capabilities
 
-### [Gesture Meme](https://github.com/Cham070306/Gesture_meme)
+| Data and systems | Development | Cloud and tools |
+|---|---|---|
+| Data analytics | Python | Google Cloud |
+| Business intelligence | JavaScript | Git and GitHub |
+| Database design | PHP | OpenCV |
+| Data warehousing | SQL | MediaPipe |
+| Decision-support systems | HTML and CSS | Bootstrap |
 
-A real-time computer vision application that recognizes hand gestures with Python, OpenCV, and MediaPipe and displays matching visual content.
+## Current Direction
 
-## Technical Skills
-
-- **Languages:** Python, JavaScript, PHP, SQL
-- **Databases:** MySQL, SQL Server
-- **Cloud and Tools:** Google Cloud, Git, GitHub
-- **Additional Technologies:** OpenCV, MediaPipe, HTML, CSS, Bootstrap
-
-## Current Focus
-
-I am currently strengthening my skills in data analytics, cloud computing, database systems, and the development of practical applications.
+I am developing stronger foundations in data analytics, cloud computing, database systems, and the design of reliable applications. I am especially interested in projects where technology supports measurable operational or business outcomes.
 
 ## Contact
 
-Email: [htntram070306@gmail.com](mailto:htntram070306@gmail.com)
+**Email:** [htntram070306@gmail.com](mailto:htntram070306@gmail.com)
