@@ -46,15 +46,9 @@ I build practical information systems that turn data into useful products and be
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cham070306&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Cham070306&show_icons=true&theme=buefy&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cham070306&layout=compact&theme=tokyonight&hide_border=true">
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cham070306&layout=compact&theme=buefy&hide_border=true">
-</picture>
+[![Followers](https://img.shields.io/github/followers/Cham070306?style=for-the-badge&logo=github&label=Followers&color=6D28D9)](https://github.com/Cham070306?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Cham070306?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=2563EB)](https://github.com/Cham070306?tab=repositories)
+[![Profile Repository](https://img.shields.io/badge/Profile-Portfolio-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cham070306/Cham070306)
 
 </div>
 
