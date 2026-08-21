@@ -1,46 +1,70 @@
-# Hoang Thi Ngoc Tram
+<div align="center">
 
-Third-year Management Information Systems student at the University of Transport Ho Chi Minh City (UTH).
+# Hi, I'm Hoang Thi Ngoc Tram 👋
 
-I am interested in building practical information systems that combine data, cloud technologies, and software development to support better decision-making.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Management+Information+Systems+Student;Data+%7C+Cloud+%7C+Decision+Support;Building+practical+systems+from+real+problems">
+  <img alt="Animated professional introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=6D28D9&center=true&vCenter=true&width=720&lines=Management+Information+Systems+Student;Data+%7C+Cloud+%7C+Decision+Support;Building+practical+systems+from+real+problems">
+</picture>
 
-## Areas of Interest
+Third-year student at the **University of Transport Ho Chi Minh City (UTH)**
 
-- Data analytics and business intelligence
-- Database design and data warehousing
-- Cloud-based applications
-- Applied machine learning
-- Information systems development
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htntram070306@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cham070306)
 
-## Selected Projects
+</div>
 
-### [Fraud Detection Data Mart](https://github.com/Cham070306/fraud-detection-data-mart)
+---
 
-A SQL Server data mart and machine-learning-based decision support system for detecting, scoring, and prioritizing fraudulent banking transactions.
+## About Me 🎓
 
-### [UTH CloudBot](https://github.com/Cham070306/uth-cloudbot)
+I build practical information systems that turn data into useful products and better decisions. My current work spans database design, cloud applications, business intelligence, and applied machine learning.
 
-A hybrid chatbot deployed on Google Cloud to support university students with academic information and common inquiries.
+## Technology Stack 🧰
 
-### [3legant E-commerce Platform](https://github.com/Cham070306/web_shopping)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=databricks&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-A PHP and MySQL e-commerce system featuring customer shopping workflows, product and order management, authentication, and an analytics-focused admin dashboard.
+## Featured Projects 🚀
 
-### [Gesture Meme](https://github.com/Cham070306/Gesture_meme)
+| Project | What it demonstrates | Core technologies |
+|---|---|---|
+| [Fraud Detection Data Mart](https://github.com/Cham070306/fraud-detection-data-mart) | Fraud scoring, prioritization, and decision support built on an analytical data model | SQL Server, Machine Learning |
+| [UTH CloudBot](https://github.com/Cham070306/uth-cloudbot) | A hybrid university-support chatbot designed for deployment on Google Cloud | JavaScript, Google Cloud |
+| [3legant E-commerce Platform](https://github.com/Cham070306/web_shopping) | End-to-end commerce workflows, administration, authentication, and business reporting | PHP, MySQL, JavaScript |
+| [Gesture Meme](https://github.com/Cham070306/Gesture_meme) | Real-time hand-gesture recognition and responsive visual output | Python, OpenCV, MediaPipe |
 
-A real-time computer vision application that recognizes hand gestures with Python, OpenCV, and MediaPipe and displays matching visual content.
+## GitHub Overview 📊
 
-## Technical Skills
+<div align="center">
 
-- **Languages:** Python, JavaScript, PHP, SQL
-- **Databases:** MySQL, SQL Server
-- **Cloud and Tools:** Google Cloud, Git, GitHub
-- **Additional Technologies:** OpenCV, MediaPipe, HTML, CSS, Bootstrap
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cham070306&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Cham070306&show_icons=true&theme=buefy&hide_border=true">
+</picture>
 
-## Current Focus
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cham070306&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cham070306&layout=compact&theme=buefy&hide_border=true">
+</picture>
 
-I am currently strengthening my skills in data analytics, cloud computing, database systems, and the development of practical applications.
+</div>
 
-## Contact
+## Current Focus ✨
 
-Email: [htntram070306@gmail.com](mailto:htntram070306@gmail.com)
+- Strengthening my skills in data analytics and business intelligence
+- Designing reliable database and cloud-based systems
+- Applying machine learning to practical decision-support problems
+- Building projects with clear operational and business value
+
+## Contact 📫
+
+**Email:** [htntram070306@gmail.com](mailto:htntram070306@gmail.com)
