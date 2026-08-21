@@ -1,22 +1,39 @@
 <div align="center">
 
-# HOANG THI NGOC TRAM
+# Hi, I'm Hoang Thi Ngoc Tram 👋
 
-### Management Information Systems · Data · Cloud · Decision Support
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Management+Information+Systems+Student;Data+%7C+Cloud+%7C+Decision+Support;Building+practical+systems+from+real+problems">
+  <img alt="Animated professional introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=6D28D9&center=true&vCenter=true&width=720&lines=Management+Information+Systems+Student;Data+%7C+Cloud+%7C+Decision+Support;Building+practical+systems+from+real+problems">
+</picture>
 
 Third-year student at the **University of Transport Ho Chi Minh City (UTH)**
 
-[Email](mailto:htntram070306@gmail.com) · [GitHub](https://github.com/Cham070306)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htntram070306@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cham070306)
 
 </div>
 
 ---
 
-## Profile
+## About Me 🎓
 
 I build practical information systems that turn data into useful products and better decisions. My current work spans database design, cloud applications, business intelligence, and applied machine learning.
 
-## Selected Work
+## Technology Stack 🧰
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=databricks&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+## Featured Projects 🚀
 
 | Project | What it demonstrates | Core technologies |
 |---|---|---|
@@ -25,20 +42,29 @@ I build practical information systems that turn data into useful products and be
 | [3legant E-commerce Platform](https://github.com/Cham070306/web_shopping) | End-to-end commerce workflows, administration, authentication, and business reporting | PHP, MySQL, JavaScript |
 | [Gesture Meme](https://github.com/Cham070306/Gesture_meme) | Real-time hand-gesture recognition and responsive visual output | Python, OpenCV, MediaPipe |
 
-## Capabilities
+## GitHub Overview 📊
 
-| Data and systems | Development | Cloud and tools |
-|---|---|---|
-| Data analytics | Python | Google Cloud |
-| Business intelligence | JavaScript | Git and GitHub |
-| Database design | PHP | OpenCV |
-| Data warehousing | SQL | MediaPipe |
-| Decision-support systems | HTML and CSS | Bootstrap |
+<div align="center">
 
-## Current Direction
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cham070306&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Cham070306&show_icons=true&theme=buefy&hide_border=true">
+</picture>
 
-I am developing stronger foundations in data analytics, cloud computing, database systems, and the design of reliable applications. I am especially interested in projects where technology supports measurable operational or business outcomes.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cham070306&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cham070306&layout=compact&theme=buefy&hide_border=true">
+</picture>
 
-## Contact
+</div>
+
+## Current Focus ✨
+
+- Strengthening my skills in data analytics and business intelligence
+- Designing reliable database and cloud-based systems
+- Applying machine learning to practical decision-support problems
+- Building projects with clear operational and business value
+
+## Contact 📫
 
 **Email:** [htntram070306@gmail.com](mailto:htntram070306@gmail.com)
